@@ -1,0 +1,24 @@
+.style{
+    border: 2px;
+    border-style:outset;
+    background-color: rgba(197, 229, 240, 0.493);
+}
+
+h4{
+    display: flex;
+    margin: 0;
+}
+h5{
+    display:inline-block;
+    opacity: 0.5;
+}
+h6{
+    display: inline-table;
+    text-align: end;
+    padding: 0;
+    margin: 0;
+}
+p{
+  margin: 8;  
+  background-color: rgba(197, 229, 240, 0.493);;
+} 
